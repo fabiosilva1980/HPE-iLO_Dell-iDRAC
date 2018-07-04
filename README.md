@@ -1,4 +1,4 @@
-# HPE-iLO_Dell-iDRAC
+# HPE-iLO Dell-iDRAC
 
 Teste de acesso para usuários "padrão" em um parque de servidores com HPE-iLO e/ou Dell-iDRAC.
 
